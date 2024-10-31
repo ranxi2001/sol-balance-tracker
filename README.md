@@ -9,6 +9,12 @@
 - 生成详细的交易记录和余额变化数据
 - 可视化展示余额变化趋势
 
+### 截图演示
+
+以下是应用程序的可视化图表示例：
+
+![SOL Balance Chart](./attachment/presentation.png)
+
 ## 安装
 
 1. 克隆仓库
