@@ -1,0 +1,19 @@
+{
+  "name": "sol-balance-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.4",
+    "chart.js": "^4.4.6",
+    "dotenv": "^16.4.5",
+    "moment": "^2.30.1",
+    "node-fetch": "^3.3.2"
+  }
+}
